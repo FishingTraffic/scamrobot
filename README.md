@@ -2,4 +2,4 @@
 Piece of code...
 
 
-<h2 style="color: red"> Artem & Maks </h2>
+<h2 color=red> Artem & Maks </h2>
