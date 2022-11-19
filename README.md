@@ -1,4 +1,4 @@
 # scamrobot
 Piece of code...
 
-[Artem & Maks](red)
+<span style="color: red">Artme & MaxJul</span>
