@@ -2,4 +2,4 @@
 Piece of code...
 
 
-![Red text] Artem & Maks 
+<h2 color="red"> Artem & Maks </h2> 
