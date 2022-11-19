@@ -1,5 +1,12 @@
+<style>
+  h2 {
+    color: red;
+  
+  }
+ </style>
+
 # scamrobot
 Piece of code...
 
 
-<h2 color= red;> Artem & Maks </h2> 
+<h2> Artem & Maks </h2> 
