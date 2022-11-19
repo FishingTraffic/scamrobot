@@ -1,12 +1,5 @@
-<style>
-  h2 {
-    color: red;
-  
-  }
- </style>
-
 # scamrobot
 Piece of code...
 
 
-<h2> Artem & Maks </h2> 
+## Artem & Maks {: style="color: red; opacity: 0.80;" }
